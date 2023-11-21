@@ -167,7 +167,6 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ## Bocetos
 
 
-![Add a little bit of body text (10)](https://github.com/DiegoNM31/Proyecto-Equipo-8/assets/143019323/c3ecd832-bac0-4132-bd05-728680cea876)
 ![Add a little bit of body text (11)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/c9c1779d-84e3-4fde-89f6-45816746569b)
 ![Add a little bit of body text (12)](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/d6bebeb3-51a4-4c4a-8f7e-086e06bd55c9)
 ![image](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143019323/85e5aa0c-9dd8-4fa8-9c27-56a752c548a1)
