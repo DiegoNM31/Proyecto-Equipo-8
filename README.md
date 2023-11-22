@@ -360,8 +360,8 @@ https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
 
 [11] Nasirpouri, F. (2016). Fundamentals and Principles of Electrode-Position. En Springer series in surface sciences. https://doi.org/10.1007/978-3-319-44920-3_3
 https://biblus.us.es/bibing/proyectos/abreproy/12343/fichero/Prototipo+de+electrocardi%C3%B3grafo+port%C3%A1til+-+copia.pdf 
-
-
-
-
+https://estudiaperu.pe/guias/universidad-publica-o-privada/
+https://science-teaching.org/es/educacion-stem/que-es-la-educacion-stem
+https://nap.nationalacademies.org/read/13399/chapter/4
+https://gestion.pe/economia/peru-paises-invierten-educacion-debajo-us-50-000-229121-noticia/?outputType=amp
 
