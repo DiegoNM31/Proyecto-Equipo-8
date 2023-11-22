@@ -275,6 +275,7 @@ Espere 500 milisegundos antes de repetir el ciclo.
 
 ### Implementación en un solo código
 Las siguientes imagenes son  el código implementado en uno solo:
+Software/local_mejorado.ino
 ![1](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/88323113-b428-4755-b916-d5e76940640c)
 ![2](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/24ffcbb7-ebbc-45c5-9a06-27947c9a38fa)
 ![3](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/41496b3d-9147-46e0-b9e9-01a06bda5941)
