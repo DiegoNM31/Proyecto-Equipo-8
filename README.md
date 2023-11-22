@@ -171,20 +171,9 @@ En conclusión, después de haber hecho una correcta valoración de los concepto
 ## Tabla de valoración técnica y económica
 ![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
 ![WhatsApp Image 2023-10-25 at 10 08 14 AM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/330cf4a6-ac54-4dfe-a464-c69eed0ed4db)
-## Modelado 3D
-### Modelado Ed del ensamble
-![Captura de pantalla 2023-10-25 062924](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/97215869-43d2-4461-9222-7f6ceb8e3d9d)
 
 ### Vista explosiva
 [Ensamble vista explosiva.pdf](https://github.com/Kusi12/Proyecto-Equipo-8/files/13426473/Ensamble.vista.explosiva.pdf)
-
-### Planos y vistas de piezas a imprimir
-
-![Captura de pantalla 2023-10-25 013831](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/02d56753-26cc-4c87-8ad6-3cf865d82a31)
-
-![Captura de pantalla 2023-10-25 021018](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/d0ef07b0-8fc8-4193-abb8-dd22f5b32add)
-
-![Captura de pantalla 2023-10-25 015431](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/b06b38b5-8007-4217-b65f-715a8f3bab01)
 
 ## Impresión 3D
 ### Parametros de Impresión
