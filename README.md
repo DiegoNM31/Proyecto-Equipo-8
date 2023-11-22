@@ -332,6 +332,9 @@ Software/local_mejorado.ino
 ![WhatsApp Image 2023-11-08 at 12 35 17 PM](https://github.com/Kusi12/Proyecto-Equipo-8/assets/143300872/881b9741-c3d9-415f-ac4b-bbecc04d9c10)
 Video de la prueba: https://drive.google.com/file/d/1PL_Z3bpm8nl_WgxrfWn5lu9DBpf63P_T/view?usp=sharing
 
+Hito 2: Presentación
+https://www.canva.com/design/DAF0hcaz220/pQJM6F6YOtKgHtUNyWbtNQ/edit?utm_content=DAF0hcaz220&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
   ## Bibliografía
 [1] Fernández, M. F. (2017). Manual de Enfermería. Enfermería en cardiología, 7, 123–136.
 https://enfermeriaencardiologia.com/wp-content/uploads/electro_07.pdf
